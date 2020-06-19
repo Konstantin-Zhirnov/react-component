@@ -17,12 +17,6 @@ export const SOCIAL_CONFIG = [
     imageLink: 'http://pngimg.com/uploads/vkontakte/vkontakte_PNG27.png',
     imgHeight: '35',
   },
-  {
-    id: 'twitter',
-    socialLink: 'https://twitter.com/YauhenKavalchuk',
-    imageLink: 'http://www.fehrandpeers.com/wp-content/uploads/2015/12/TwitterLogo.png',
-    imgHeight: '35',
-  },
 ];
 
 export const DEPENDENCIES = [
